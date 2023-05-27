@@ -1,7 +1,8 @@
 keymap:
   - name: Global
+    exact_match: true
     remap:
-      ALT-SHIFT-h: left
-      ALT-SHIFT-l: right
-      ALT-SHIFT-k: up
-      ALT-SHIFT-j: down
+      ALT-h: left
+      ALT-j: down
+      ALT-k: up
+      ALT-l: right
